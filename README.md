@@ -1,2 +1,1 @@
 # Cve
-collected cve
